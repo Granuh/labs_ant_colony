@@ -1,0 +1,37 @@
+C:\Users\Юрий\Documents\Visual Studio 2013\Projects\AntColony\AntColony\bin\Debug\AntColony.exe.config
+C:\Users\Юрий\Documents\Visual Studio 2013\Projects\AntColony\AntColony\bin\Debug\AntColony.exe
+C:\Users\Юрий\Documents\Visual Studio 2013\Projects\AntColony\AntColony\bin\Debug\AntColony.pdb
+C:\Users\Юрий\Documents\Visual Studio 2013\Projects\AntColony\AntColony\obj\Debug\AntColony.Form1.resources
+C:\Users\Юрий\Documents\Visual Studio 2013\Projects\AntColony\AntColony\obj\Debug\AntColony.Properties.Resources.resources
+C:\Users\Юрий\Documents\Visual Studio 2013\Projects\AntColony\AntColony\obj\Debug\AntColony.csproj.GenerateResource.Cache
+C:\Users\Юрий\Documents\Visual Studio 2013\Projects\AntColony\AntColony\obj\Debug\AntColony.exe
+C:\Users\Юрий\Documents\Visual Studio 2013\Projects\AntColony\AntColony\obj\Debug\AntColony.pdb
+C:\Users\Юрий\Documents\Visual Studio 2013\Projects\AntColony\AntColony\obj\Debug\AntColony.csprojResolveAssemblyReference.cache
+C:\Users\grank\Desktop\AntColony\AntColony\bin\Debug\AntColony.exe.config
+C:\Users\grank\Desktop\AntColony\AntColony\obj\Debug\AntColony.exe
+C:\Users\grank\Desktop\AntColony\AntColony\obj\Debug\AntColony.pdb
+C:\Users\grank\Desktop\AntColony\AntColony\bin\Debug\AntColony.exe
+C:\Users\grank\Desktop\AntColony\AntColony\bin\Debug\AntColony.pdb
+C:\Users\grank\Desktop\AntColony\AntColony\obj\Debug\AntColony.csprojResolveAssemblyReference.cache
+C:\Users\grank\Desktop\AntColony\AntColony\obj\Debug\AntColony.Form1.resources
+C:\Users\grank\Desktop\AntColony\AntColony\obj\Debug\AntColony.Properties.Resources.resources
+C:\Users\grank\Desktop\AntColony\AntColony\obj\Debug\AntColony.csproj.GenerateResource.Cache
+C:\Users\grank\Desktop\ООП\AntColony\AntColony\bin\Debug\AntColony.exe.config
+C:\Users\grank\Desktop\ООП\AntColony\AntColony\obj\Debug\AntColony.exe
+C:\Users\grank\Desktop\ООП\AntColony\AntColony\obj\Debug\AntColony.pdb
+C:\Users\grank\Desktop\ООП\AntColony\AntColony\bin\Debug\AntColony.exe
+C:\Users\grank\Desktop\ООП\AntColony\AntColony\bin\Debug\AntColony.pdb
+C:\Users\grank\Desktop\ООП\AntColony\AntColony\obj\Debug\AntColony.csprojResolveAssemblyReference.cache
+C:\Users\grank\Desktop\ООП\AntColony\AntColony\obj\Debug\AntColony.Form1.resources
+C:\Users\grank\Desktop\ООП\AntColony\AntColony\obj\Debug\AntColony.Properties.Resources.resources
+C:\Users\grank\Desktop\ООП\AntColony\AntColony\obj\Debug\AntColony.csproj.GenerateResource.Cache
+E:\2022\ООП\AntColony\AntColony\obj\Debug\AntColony.csprojAssemblyReference.cache
+E:\2022\ООП\AntColony\AntColony\obj\Debug\AntColony.Form1.resources
+E:\2022\ООП\AntColony\AntColony\obj\Debug\AntColony.Properties.Resources.resources
+E:\2022\ООП\AntColony\AntColony\obj\Debug\AntColony.csproj.GenerateResource.cache
+E:\2022\ООП\AntColony\AntColony\obj\Debug\AntColony.csproj.CoreCompileInputs.cache
+E:\2022\ООП\AntColony\AntColony\obj\Debug\AntColony.exe
+E:\2022\ООП\AntColony\AntColony\obj\Debug\AntColony.pdb
+E:\2022\ООП\AntColony\AntColony\bin\Debug\AntColony.exe.config
+E:\2022\ООП\AntColony\AntColony\bin\Debug\AntColony.exe
+E:\2022\ООП\AntColony\AntColony\bin\Debug\AntColony.pdb
